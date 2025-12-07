@@ -1,7 +1,6 @@
 # Discord-Equibop Ram Limiter
 
-![Image](https://github.com/user-attachments/assets/b7dbd5bb-8edf-44c7-9bd1-131ae3142348)
-![Language](https://img.shields.io/badge/Language-Batch-ffffff)
+![Language](https://img.shields.io/badge/Language-.Net-ffffff)
 ![VirusFree](https://img.shields.io/badge/Virus-Free-ffffff)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-ffffff)
 ![Stability](https://img.shields.io/badge/Stability-Stable-ffffff)
