@@ -14,7 +14,11 @@ This Is A Discord-Equibop Ram Limiter Which I've Made In .Net , It Dosen't Conta
                                                  
 1. Download Discord-Equibop-Ram-Limiter.exe File From The [Releases](https://github.com/SimonGhost1012/Discord-Equibop-Ram-Limiter/releases).
 
-2. Run The EXE File.
+2. Press Win+R And Type In The Run Dialog "shell:startup" Without Quotation Marks.
+
+3. Move The File Inside The Start-Up Folder That You've Opened By Following Step 2.
+
+4. Run The EXE File.
 
 # 🖥️ Tested On
 This File Has Been Tested On Windows 10/11.
