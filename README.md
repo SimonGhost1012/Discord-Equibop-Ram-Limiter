@@ -24,10 +24,13 @@ This Is A Discord-Equibop Ram Limiter Which I've Made In .Net , It Dosen't Conta
 This File Has Been Tested On Windows 10/11.
 
 # ⚙️ Features
-- Limits Discord-Equibop Ram Usage To 150MB
+- Limits Discord-Equibop Ram Usage To 150MB.
+
+# ❗Issues
+- Discord-Equibop May Run Slower And Lag Because Its Being Limited To 150MB Wich Is Not That Electron Likes.
 
 # 🙏 Thank You!
-Thanks For Checking Out Toolbox! If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/qnS9HbEBVj).
+Thanks For Checking Out Discord-Equibop Ram Limiter If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/qnS9HbEBVj).
 
 BTC : bc1qjxja2rv0zsfs90wv22acgjuf5903vc86uj77y4
 
