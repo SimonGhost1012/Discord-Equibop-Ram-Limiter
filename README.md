@@ -32,6 +32,8 @@ This File Has Been Tested On Windows 10/11.
 # 🙏 Thank You!
 Thanks For Checking Out Discord-Equibop Ram Limiter If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/qnS9HbEBVj).
 
+[PayPal](https://paypal.me/SimonGhost1012)
+
 BTC : bc1qjxja2rv0zsfs90wv22acgjuf5903vc86uj77y4
 
 ETH : 0x5e5cfcff9858bdd66ca448954c370007fb942518
