@@ -34,11 +34,11 @@ Thanks For Checking Out Discord-Equibop Ram Limiter If You Have Any Feedback Or 
 
 [PayPal](https://paypal.me/SimonGhost1012)
 
-BTC : bc1qknyzhx7at2gylt3w8lqxx9zqzmd42pnf0f8km4
+BTC Native SegWit: bc1quzh5zh7mgkjku87a9g5amgkpehw4jq9mleqgye
 
-ETH : 0x2b6070904D715fD597796F112B50d4d34dD3AF2b
+ETH Original (Multichain): 0xd1e9b065095a392ed919ee6314cf1203c81c17a3
 
-SOL : 4QJXA8ejkdiixgCMpVFHEdGQWGw7WXweH6sUuMeb2cBt
+SOL Original: 29tCAX396z1oA4UqGgTFJCXvQBd1X3eXWXkJik2VSBM9
 
 # 📄 License
 
