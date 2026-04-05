@@ -34,6 +34,8 @@ Thanks For Checking Out Discord-Equibop Ram Limiter If You Have Any Feedback Or 
 
 [PayPal](https://paypal.me/SimonGhost1012)
 
+USDT BNB Chain (BEP20): 0xd1e9b065095a392ed919ee6314cf1203c81c17a3
+
 BTC Native SegWit: bc1quzh5zh7mgkjku87a9g5amgkpehw4jq9mleqgye
 
 ETH Original (Multichain): 0xd1e9b065095a392ed919ee6314cf1203c81c17a3
