@@ -27,7 +27,7 @@ This File Has Been Tested On Windows 10/11.
 - Limits Discord-Equibop Ram Usage To 200MB.
 
 # ❗Issues
-- Discord-Equibop May Run Slower And Lag Because Its Being Limited To 150MB Wich Is Not That Electron Likes.
+- Discord-Equibop May Run Slower And Lag Because Its Being Limited To 200MB Wich Is Not That Electron Likes.
 
 # 🙏 Thank You!
 Thanks For Checking Out Discord-Equibop Ram Limiter If You Have Any Feedback Or Suggestions, Feel Free To Contact Me Via My [Discord Server](https://discord.gg/qnS9HbEBVj).
