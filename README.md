@@ -6,6 +6,10 @@
 ![Stability](https://img.shields.io/badge/Stability-Stable-ffffff)
 ![Status](https://img.shields.io/badge/Status-Active-ffffff)
 
+<img width="948" height="40" alt="1000183720" src="https://github.com/user-attachments/assets/2827735b-9564-4d1e-9489-c2352fd2820e" />
+
+<img width="962" height="59" alt="1000183721" src="https://github.com/user-attachments/assets/e7ac109e-db67-4813-9a6a-1e41e3f6b416" />
+
 # ℹ️ Info
 
 This Is A Discord-Equibop Ram Limiter Which I've Made In .Net , It Dosen't Contain Malware Or Similar Like That.
